@@ -9,5 +9,3 @@
 </p>
 
 ---
-
-This profile is just getting started. The snake above is generated automatically from my GitHub contribution graph.
